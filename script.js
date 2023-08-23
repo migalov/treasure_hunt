@@ -83,7 +83,7 @@ mapImage.addEventListener("click", (e) => {
     let distance = getDistance(e, coordsTreasureX, coordsTreasureY);
     showMessageDistance(distance);
   }
-})ж
+})
 
 
 
